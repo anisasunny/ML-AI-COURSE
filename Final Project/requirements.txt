@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+python-dotenv
+google-generativeai
+spacy==3.5.4
+openpyxl
+# After installing the above packages, run the following command to download the spaCy language model:
+# python -m spacy download en_core_web_sm
